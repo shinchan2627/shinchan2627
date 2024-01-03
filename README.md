@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shinchan2627
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Data Science
+- 👋 Hi, I’m Praveen kumar K,who is passionate about technology.
+- 👀 I’m interested in daily growing technologys
+- 🌱 He is alearning Programmer,Machine learning Student and Self Learning Ethical Hacking.
+- 💞️ Skilled in Python,C#, Networking and basic knowledge in HTML,CSS,Js.
 - 📫 How to reach me praveenkk418@gmail.com
 
 <!---
